@@ -25,6 +25,11 @@
     {
       "children": [
       {
+        "name":"Instagram",
+        "type":"url",
+        "url":"https://toolzu.com/profile-analyzer/instagram/"
+      },
+      {
         "name": "Tinder Usernames (M)",
         "type": "url",
         "url": "https://www.gotinder.com/@%3Cusername%3E"
