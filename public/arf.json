@@ -30,11 +30,6 @@
         "url": "https://www.gotinder.com/@%3Cusername%3E"
       },
       {
-        "name": "Keybase",
-        "type": "url",
-        "url": "https://keybase.io/"
-      },
-      {
         "name": "MIT PGP Key Server",
         "type": "url",
         "url": "http://pgp.mit.edu/"
