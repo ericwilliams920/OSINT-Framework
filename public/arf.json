@@ -83,6 +83,12 @@
         "name": "Read Notify",
         "type": "url",
         "url": "http://www.readnotify.com/"
+      },
+      {
+        "name": "Find domains, email addresses, or URLs",
+        "type": "url",
+        "url": "https://phonebook.cz"
+
       }],
       "name": "TBC",
       "type": "folder"
