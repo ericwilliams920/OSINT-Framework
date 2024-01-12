@@ -78,6 +78,11 @@
         "name": "VerifyEmail (R) [Account blocked due to VPN]",
         "type": "url",
         "url": "http://emailable.com/"
+      },
+      {
+        "name": "Read Notify",
+        "type": "url",
+        "url": "http://www.readnotify.com/"
       }],
       "name": "TBC",
       "type": "folder"
@@ -131,24 +136,14 @@
     {
       "children": [
       {
-        "name": "BytePlant Email Validator",
-        "type": "url",
-        "url": "http://www.email-validator.net/"
-      },
-      {
-        "name": "Read Notify",
-        "type": "url",
-        "url": "http://www.readnotify.com/"
-      },
-      {
         "name": "Email Reputation",
         "type": "url",
         "url": "https://emailrep.io/"
       },
       {
-        "name": "MailboxValidator",
+        "name": "MailboxValidator (R) [Functions Excellently]",
         "type": "url",
-        "url": "https://www.mailboxvalidator.com/demo"
+        "url": "https://www.mailboxvalidator.com/"
       }],
       "name": "Email Verification",
       "type": "folder"
