@@ -50,9 +50,14 @@
     {
       "children": [
       {
-        "name": "Email to Address (R)",
+        "name": "Email to Address [Since R is required they are detecting non legin account i think]",
         "type": "url",
         "url": "http://www.melissadata.com/lookups/emails.asp"
+      },
+      {
+        "name": "VoilaNorbert [SMS verification required]",
+        "type": "url",
+        "url": "https://www.voilanorbert.com/"
       }],
       "name": "TBC",
       "type": "folder"
@@ -73,16 +78,6 @@
         "name": "Pipl",
         "type": "url",
         "url": "https://pipl.com/"
-      },
-      {
-        "name": "VoilaNorbert",
-        "type": "url",
-        "url": "https://www.voilanorbert.com/"
-      },
-      {
-        "name": "Reverse Genie Email",
-        "type": "url",
-        "url": "http://www.reversegenie.com/email.php"
       },
       {
         "name": "theHarvester (T)",
