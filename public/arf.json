@@ -164,21 +164,6 @@
         "name": "Intelligence X",
         "type": "url",
         "url": "https://intelx.io/"
-      },
-      {
-        "name": "Vigilante.pw",
-        "type": "url",
-        "url": "https://www.vigilante.pw/"
-      },
-      {
-        "name": "Breach or Clear",
-        "type": "url",
-        "url": "http://breachorclear.jesterscourt.cc/"
-      },
-      {
-        "name": "Ashley Madison Emails",
-        "type": "url",
-        "url": "https://ashley.cynic.al/"
       }],
       "name": "Breach Data",
       "type": "folder"
