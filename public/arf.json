@@ -70,9 +70,14 @@
         "url": "https://pipl.com/"
       },
       {
-        "name": "MailTester [Can't sign up with VPN]",
+        "name": "MailTester [Can't access the website with a VPN]",
         "type": "url",
         "url": "http://mailtester.com/testmail.php"
+      },
+      {
+        "name": "VerifyEmail (R) [Account blocked due to VPN]",
+        "type": "url",
+        "url": "http://emailable.com/"
       }],
       "name": "TBC",
       "type": "folder"
@@ -125,11 +130,6 @@
     },
     {
       "children": [
-      {
-        "name": "VerifyEmail",
-        "type": "url",
-        "url": "http://verify-email.org/"
-      },
       {
         "name": "Email Validator",
         "type": "url",
