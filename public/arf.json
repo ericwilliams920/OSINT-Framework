@@ -63,6 +63,11 @@
         "name": "theHarvester (T) [No good results so far, retry with as many API keys as possible]",
         "type": "url",
         "url": "http://www.edge-security.com/theharvester.php"
+      },
+      {
+        "name": "Pipl [So far can't find a way to use it]",
+        "type": "url",
+        "url": "https://pipl.com/"
       }],
       "name": "TBC",
       "type": "folder"
@@ -79,25 +84,11 @@
         "type": "url",
         "url": "https://hunter.io/"
       },
-      {
-        "name": "Pipl",
-        "type": "url",
-        "url": "https://pipl.com/"
-      },
-      {
-        "name": "MailDB",
-        "type": "url",
-        "url": "https://maildb.io/"
-      },
+
       {
         "name": "Skymem",
         "type": "url",
         "url": "http://www.skymem.info/"
-      },
-      {
-        "name": "MailsHunt",
-        "type": "url",
-        "url": "https://mailshunt.com/"
       }],
       "name": "Email Search",
       "type": "folder"
