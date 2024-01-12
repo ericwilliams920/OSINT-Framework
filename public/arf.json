@@ -50,7 +50,7 @@
     {
       "children": [
       {
-        "name": "Email to Address [Since R is required they are detecting non legin account i think]",
+        "name": "Email to Address (R) [Since R is required they are detecting non legin account i think]",
         "type": "url",
         "url": "http://www.melissadata.com/lookups/emails.asp"
       },
@@ -58,6 +58,11 @@
         "name": "VoilaNorbert [SMS verification required]",
         "type": "url",
         "url": "https://www.voilanorbert.com/"
+      },
+      {
+        "name": "theHarvester (T) [No good results so far, retry with as many API keys as possible]",
+        "type": "url",
+        "url": "http://www.edge-security.com/theharvester.php"
       }],
       "name": "TBC",
       "type": "folder"
@@ -78,11 +83,6 @@
         "name": "Pipl",
         "type": "url",
         "url": "https://pipl.com/"
-      },
-      {
-        "name": "theHarvester (T)",
-        "type": "url",
-        "url": "http://www.edge-security.com/theharvester.php"
       },
       {
         "name": "Infoga (T)",
