@@ -68,6 +68,11 @@
         "name": "Pipl [So far can't find a way to use it]",
         "type": "url",
         "url": "https://pipl.com/"
+      },
+      {
+        "name": "MailTester [Can't sign up with VPN]",
+        "type": "url",
+        "url": "http://mailtester.com/testmail.php"
       }],
       "name": "TBC",
       "type": "folder"
@@ -120,11 +125,6 @@
     },
     {
       "children": [
-      {
-        "name": "MailTester",
-        "type": "url",
-        "url": "http://mailtester.com/testmail.php"
-      },
       {
         "name": "VerifyEmail",
         "type": "url",
