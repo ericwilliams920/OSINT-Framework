@@ -131,11 +131,6 @@
     {
       "children": [
       {
-        "name": "Email Validator",
-        "type": "url",
-        "url": "http://e-mailvalidator.com/index.php"
-      },
-      {
         "name": "BytePlant Email Validator",
         "type": "url",
         "url": "http://www.email-validator.net/"
