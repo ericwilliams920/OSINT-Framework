@@ -202,19 +202,9 @@
         "url": "http://centralops.net/co/DomainDossier.aspx"
       },
       {
-        "name": "domainIQ",
-        "type": "url",
-        "url": "https://www.domainiq.com/"
-      },
-      {
         "name": "DomainTools Whois",
         "type": "url",
         "url": "http://whois.domaintools.com/"
-      },
-      {
-        "name": "Domain Big Data",
-        "type": "url",
-        "url": "http://domainbigdata.com/"
       },
       {
         "name": "Whoisology",
@@ -225,16 +215,6 @@
         "name": "Whois ARIN",
         "type": "url",
         "url": "https://whois.arin.net/ui/advanced.jsp"
-      },
-      {
-        "name": "DNSstuff",
-        "type": "url",
-        "url": "https://tools.dnsstuff.com/"
-      },
-      {
-        "name": "Robtex (R)",
-        "type": "url",
-        "url": "https://www.robtex.com/"
       },
       {
         "name": "Domaincrawler.com",
@@ -260,11 +240,6 @@
         "name": "Who.is",
         "type": "url",
         "url": "https://who.is/"
-      },
-      {
-        "name": "Whois AMPed",
-        "type": "url",
-        "url": "https://whoisamped.com/"
       },
       {
         "name": "ViewDNS.info",
