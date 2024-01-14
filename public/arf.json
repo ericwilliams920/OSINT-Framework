@@ -262,21 +262,6 @@
     {
       "children": [
       {
-        "name": "Aquatone (T)",
-        "type": "url",
-        "url": "https://github.com/michenriksen/aquatone"
-      },
-      {
-        "name": "FindSubDomains",
-        "type": "url",
-        "url": "https://findsubdomains.com/"
-      },
-      {
-        "name": "Google Subdomains (D)",
-        "type": "url",
-        "url": "https://www.google.com/?gws_rd=ssl#q=site:%3Cdomain.com%3E"
-      },
-      {
         "name": "Recon-ng (T)",
         "type": "url",
         "url": "https://github.com/lanmaster53/recon-ng"
