@@ -222,11 +222,6 @@
         "url": "https://whois.arin.net/ui/advanced.jsp"
       },
       {
-        "name": "Domaincrawler.com",
-        "type": "url",
-        "url": "http://www.domaincrawler.com/"
-      },
-      {
         "name": "MarkMonitor Whois Search",
         "type": "url",
         "url": "https://domains.markmonitor.com/whois/"
