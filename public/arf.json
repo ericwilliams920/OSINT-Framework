@@ -277,16 +277,6 @@
         "url": "https://github.com/davidpepper/fierce-domain-scanner"
       },
       {
-        "name": "Bluto (T)",
-        "type": "url",
-        "url": "https://github.com/RandomStorm/Bluto"
-      },
-      {
-        "name": "theHarvester (T)",
-        "type": "url",
-        "url": "http://www.edge-security.com/theharvester.php"
-      },
-      {
         "name": "Pentest-tools.com Subdomains",
         "type": "url",
         "url": "https://pentest-tools.com/information-gathering/find-subdomains-of-domain"
