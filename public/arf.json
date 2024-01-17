@@ -262,11 +262,6 @@
     {
       "children": [
       {
-        "name": "XRay",
-        "type": "url",
-        "url": "https://github.com/evilsocket/xray"
-      },
-      {
         "name": "DNS Recon (T)",
         "type": "url",
         "url": "https://github.com/darkoperator/dnsrecon"
