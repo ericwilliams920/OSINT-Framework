@@ -277,11 +277,6 @@
         "url": "https://github.com/davidpepper/fierce-domain-scanner"
       },
       {
-        "name": "Pentest-tools.com Subdomains",
-        "type": "url",
-        "url": "https://pentest-tools.com/information-gathering/find-subdomains-of-domain"
-      },
-      {
         "name": "SecLists DNS Subdomains (T)",
         "type": "url",
         "url": "https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS"
