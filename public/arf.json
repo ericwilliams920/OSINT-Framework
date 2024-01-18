@@ -110,7 +110,11 @@
         "type": "url",
         "url": "https://hunter.io/"
       },
-
+      {
+        "name": "Anymail finder",
+        "type": "url",
+        "url": "https://newapp.anymailfinder.com/search/single"
+      },
       {
         "name": "Skymem",
         "type": "url",
