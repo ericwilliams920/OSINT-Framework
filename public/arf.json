@@ -118,7 +118,7 @@
       {
         "name": "Skymem",
         "type": "url",
-        "url": "http://www.skymem.info/"
+        "url": "https://www.skymem.info/"
       }],
       "name": "Email Search",
       "type": "folder"
@@ -198,7 +198,7 @@
       "name": "Mail Blacklists",
       "type": "folder"
     }],
-    "name": "Email Address",
+    "name": "Email Address [Checked]",
     "type": "folder"
   },
   {
