@@ -211,24 +211,9 @@
         "url": "http://centralops.net/co/DomainDossier.aspx"
       },
       {
-        "name": "DomainTools Whois",
-        "type": "url",
-        "url": "http://whois.domaintools.com/"
-      },
-      {
         "name": "MarkMonitor Whois Search",
         "type": "url",
         "url": "https://domains.markmonitor.com/whois/"
-      },
-      {
-        "name": "easyWhois",
-        "type": "url",
-        "url": "https://www.easywhois.com/"
-      },
-      {
-        "name": "Website Informer",
-        "type": "url",
-        "url": "http://website.informer.com/"
       },
       {
         "name": "Who.is",
@@ -236,20 +221,14 @@
         "url": "https://who.is/"
       },
       {
-        "name": "ViewDNS.info",
-        "type": "url",
-        "url": "http://viewdns.info/"
-      },
-      {
         "name": "Domainsdb.info",
         "type": "url",
         "url": "https://domainsdb.info"
-      },
-      {
-        "name": "IP2WHOIS",
-        "type": "url",
-        "url": "https://www.ip2whois.com"
       }],
+      "name": "Whois Records [Checked]",
+      "type": "folder"
+    },
+    {
       "name": "Whois Records",
       "type": "folder"
     },
@@ -1236,31 +1215,26 @@
     {
       "children": [
       {
-        "name": "IP Fingerprints - Reverse IP Lookup",
-        "type": "url",
-        "url": "http://www.ipfingerprints.com/reverseip.php"
-      },
-      {
         "name": "Bing IP Search (D)",
         "type": "url",
         "url": "http://www.bing.com/search?q=ip%3A8.8.8.8"
       },
       {
-        "name": "TCP/IP Utils - Domain Neighbors",
+        "name": "Reverse IP Lookup - DomainTools",
         "type": "url",
-        "url": "http://www.tcpiputils.com/domain-neighbors"
+        "url": "https://reverseip.domaintools.com/"
       },
       {
-        "name": "MyIPNeighbors",
+        "name": "Reverse IP Lookup - ViewDNS",
         "type": "url",
-        "url": "http://www.my-ip-neighbors.com/"
+        "url": "https://viewdns.info/reverseip/"
       },
       {
-        "name": "Same IP",
+        "name": "Reverse IP - DNSlytics",
         "type": "url",
-        "url": "http://www.sameip.org/"
+        "url": "https://dnslytics.com/reverse-ip"
       }],
-      "name": "Neighbor Domains",
+      "name": "Neighbor Domains [Checked]",
       "type": "folder"
     },
     {
