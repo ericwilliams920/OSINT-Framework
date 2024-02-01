@@ -246,11 +246,6 @@
         "url": "https://github.com/davidpepper/fierce-domain-scanner"
       },
       {
-        "name": "SecLists DNS Subdomains (T)",
-        "type": "url",
-        "url": "https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS"
-      },
-      {
         "name": "dnspop (T)",
         "type": "url",
         "url": "https://github.com/bitquark/dnspop"
