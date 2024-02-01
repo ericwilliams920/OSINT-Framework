@@ -229,10 +229,6 @@
       "type": "folder"
     },
     {
-      "name": "Whois Records",
-      "type": "folder"
-    },
-    {
       "children": [
       {
         "name": "DNS Recon (T)",
