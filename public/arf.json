@@ -216,16 +216,6 @@
         "url": "http://whois.domaintools.com/"
       },
       {
-        "name": "Whoisology",
-        "type": "url",
-        "url": "https://whoisology.com/#advanced"
-      },
-      {
-        "name": "Whois ARIN",
-        "type": "url",
-        "url": "https://whois.arin.net/ui/advanced.jsp"
-      },
-      {
         "name": "MarkMonitor Whois Search",
         "type": "url",
         "url": "https://domains.markmonitor.com/whois/"
