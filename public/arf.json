@@ -1355,16 +1355,6 @@
           "url": "https://imgur.com/search"
         },
         {
-          "name": "PicSearch",
-          "type": "url",
-          "url": "http://www.picsearch.com/"
-        },
-        {
-          "name": "Karma Decay",
-          "type": "url",
-          "url": "http://karmadecay.com/"
-        },
-        {
           "name": "Image Raider",
           "type": "url",
           "url": "https://www.imageraider.com/"
