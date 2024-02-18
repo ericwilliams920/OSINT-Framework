@@ -1355,11 +1355,6 @@
           "url": "https://imgur.com/search"
         },
         {
-          "name": "CC Search",
-          "type": "url",
-          "url": "https://ccsearch.creativecommons.org/"
-        },
-        {
           "name": "CamFind App",
           "type": "url",
           "url": "http://camfindapp.com/"
