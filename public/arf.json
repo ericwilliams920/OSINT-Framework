@@ -1355,16 +1355,6 @@
           "url": "https://imgur.com/search"
         },
         {
-          "name": "Panoramio",
-          "type": "url",
-          "url": "http://www.panoramio.com/"
-        },
-        {
-          "name": "Current Location",
-          "type": "url",
-          "url": "http://current-location.com/"
-        },
-        {
           "name": "Lakako Photo Search",
           "type": "url",
           "url": "http://www.lakako.com/"
