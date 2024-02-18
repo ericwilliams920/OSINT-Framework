@@ -1355,11 +1355,6 @@
           "url": "https://imgur.com/search"
         },
         {
-          "name": "Photobucket",
-          "type": "url",
-          "url": "http://photobucket.com/"
-        },
-        {
           "name": "PicSearch",
           "type": "url",
           "url": "http://www.picsearch.com/"
