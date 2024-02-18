@@ -1373,6 +1373,16 @@
           "name": "SauceNAO",
           "type": "url",
           "url": "https://saucenao.com/"
+        },
+        {
+          "name": "Face Search Engine - PimEyes",
+          "type": "url",
+          "url": "https://pimeyes.com/en"
+        },
+        {
+          "name": "Face Search Engine - FaceCheckID",
+          "type": "url",
+          "url": "https://facecheck.id/"
         }],
         "name": "Search [Checked]",
         "type": "folder"
