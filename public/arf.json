@@ -1355,16 +1355,6 @@
           "url": "https://imgur.com/search"
         },
         {
-          "name": "Image Raider",
-          "type": "url",
-          "url": "https://www.imageraider.com/"
-        },
-        {
-          "name": "7Photos.net",
-          "type": "url",
-          "url": "http://7photos.net/"
-        },
-        {
           "name": "Panoramio",
           "type": "url",
           "url": "http://www.panoramio.com/"
