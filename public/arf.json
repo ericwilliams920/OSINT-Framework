@@ -1355,11 +1355,6 @@
           "url": "https://imgur.com/search"
         },
         {
-          "name": "Lakako Photo Search",
-          "type": "url",
-          "url": "http://www.lakako.com/"
-        },
-        {
           "name": "CC Search",
           "type": "url",
           "url": "https://ccsearch.creativecommons.org/"
