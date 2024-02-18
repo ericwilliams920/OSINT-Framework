@@ -1365,21 +1365,6 @@
           "url": "https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf?hl=en"
         },
         {
-          "name": "SmugMug Search",
-          "type": "url",
-          "url": "http://www.smugmug.com/search"
-        },
-        {
-          "name": "ImageNet",
-          "type": "url",
-          "url": "http://image-net.org/"
-        },
-        {
-          "name": "Places2",
-          "type": "url",
-          "url": "http://places2.csail.mit.edu/explore.html"
-        },
-        {
           "name": "Image Identification Project",
           "type": "url",
           "url": "https://www.imageidentify.com/"
@@ -1389,7 +1374,7 @@
           "type": "url",
           "url": "https://saucenao.com/"
         }],
-        "name": "Search",
+        "name": "Search [Checked]",
         "type": "folder"
       },
       {
