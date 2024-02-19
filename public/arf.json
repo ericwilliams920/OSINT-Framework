@@ -1390,31 +1390,16 @@
       {
         "children": [
         {
-          "name": "Webstigram",
+          "name": "Find Instagram Posts and Places Based on Location - InstaHunt",
           "type": "url",
-          "url": "http://websta.me/search"
+          "url": "https://instahunt.co/"
         },
         {
-          "name": "Instagram",
+          "name": "Instagram stories and photos anonymous viewer - ",
           "type": "url",
-          "url": "https://www.instagram.com/"
-        },
-        {
-          "name": "Mini Instagram",
-          "type": "url",
-          "url": "http://mininsta.net/"
-        },
-        {
-          "name": "Imgrab",
-          "type": "url",
-          "url": "https://imgrab.com/"
-        },
-        {
-          "name": "Tofo.me",
-          "type": "url",
-          "url": "https://tofo.me/"
+          "url": "https://imginn.com/"
         }],
-        "name": "Instagram",
+        "name": "Instagram [Checked]",
         "type": "folder"
       },
       {
