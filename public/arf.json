@@ -1440,46 +1440,11 @@
           "url": "http://www.sno.phy.queensu.ca/~phil/exiftool/"
         },
         {
-          "name": "Jeffrey's Exif Viewer",
+          "name": "EXIF data viewer",
           "type": "url",
-          "url": "http://exif.regex.info/"
-        },
-        {
-          "name": "ExifViewer",
-          "type": "url",
-          "url": "http://www.exifviewer.org/"
-        },
-        {
-          "name": "Search by Exif",
-          "type": "url",
-          "url": "http://www.exif-search.com/"
-        },
-        {
-          "name": "ImgOps",
-          "type": "url",
-          "url": "http://imgops.com/"
-        },
-        {
-          "name": "Metapicz",
-          "type": "url",
-          "url": "http://metapicz.com/#landing"
-        },
-        {
-          "name": "JPEGsnoop (T)",
-          "type": "url",
-          "url": "http://www.impulseadventure.com/photo/jpeg-snoop.html"
-        },
-        {
-          "name": "GeoSetter",
-          "type": "url",
-          "url": "http://www.geosetter.de/en/"
-        },
-        {
-          "name": "gbimg.org",
-          "type": "url",
-          "url": "http://gbimg.org/"
+          "url": "https://jimpl.com/"
         }],
-        "name": "Metadata",
+        "name": "Metadata [Chcked]",
         "type": "folder"
       },
       {
