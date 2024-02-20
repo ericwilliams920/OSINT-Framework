@@ -2806,18 +2806,8 @@
       "url": "http://www.blackpeoplemeet.com/"
     },
     {
-      "children": [
-      {
-        "name": "TrueDater",
-        "type": "url",
-        "url": "http://www.truedater.com/"
-      },
-      {
-        "name": "WomanSavers",
-        "type": "url",
-        "url": "http://www.womansavers.com/search-a-guy.asp"
-      }],
-      "name": "Reviews of Users",
+      "children": [],
+      "name": "Reviews of Users [Checked]",
       "type": "folder"
     }],
     "name": "Dating",
