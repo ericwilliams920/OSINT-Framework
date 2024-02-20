@@ -1463,16 +1463,6 @@
           "name": "Ghiro (T)",
           "type": "url",
           "url": "https://github.com/ghirensics/ghiro"
-        },
-        {
-          "name": "Stolen Camera Finder",
-          "type": "url",
-          "url": "http://www.stolencamerafinder.co.uk/"
-        },
-        {
-          "name": "Camera Trace",
-          "type": "url",
-          "url": "http://www.cameratrace.com/trace"
         }],
         "name": "Forensics",
         "type": "folder"
