@@ -2851,16 +2851,6 @@
       "url": "https://whocalld.com/"
     },
     {
-      "name": "CallerID Test",
-      "type": "url",
-      "url": "http://www.calleridtest.com/"
-    },
-    {
-      "name": "ThatsThem - Reverse Phone Lookup",
-      "type": "url",
-      "url": "https://thatsthem.com/reverse-phone-lookup"
-    },
-    {
       "name": "Twilio Lookup (R)",
       "type": "url",
       "url": "https://www.twilio.com/lookup"
@@ -2914,6 +2904,16 @@
       "name": "Numspy-Api",
       "type": "url",
       "url": "https://numspy.pythonanywhere.com/"
+    },
+    {
+      "name": "Caller ID & Spam Call Blocker - Sync.ME",
+      "type": "url",
+      "url": "https://sync.me/"
+    },
+    {
+      "name": "Phone reverse lookup - Epieos",
+      "type": "url",
+      "url": "https://epieos.com/"
     }],
     "name": "Telephone Numbers",
     "type": "folder"
