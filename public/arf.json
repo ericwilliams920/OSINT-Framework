@@ -2818,7 +2818,7 @@
     {
       "children": [
       {
-        "name": "Slydial",
+        "name": "Slydial - TBC",
         "type": "url",
         "url": "https://www.slydial.com/"
       }],
@@ -2856,7 +2856,7 @@
       "type": "folder"
     },
     {
-      "name": "Pipl API (M)",
+      "name": "Pipl API (M) - TBC",
       "type": "url",
       "url": "https://api.pipl.com/search/v5/?phone=18887420000&key=sample_key&pretty=true"
     },
@@ -2866,7 +2866,7 @@
       "url": "https://whocalld.com/"
     },
     {
-      "name": "Twilio Lookup (R)",
+      "name": "Twilio Lookup (R) - TBC",
       "type": "url",
       "url": "https://www.twilio.com/lookup"
     },
@@ -2900,7 +2900,7 @@
       "type": "url",
       "url": "https://www.numberingplans.com/?page=analysis&sub=phonenr"
     }],
-    "name": "Telephone Numbers",
+    "name": "Telephone Numbers [Checked]",
     "type": "folder"
   },
   {
