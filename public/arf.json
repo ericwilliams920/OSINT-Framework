@@ -2881,29 +2881,9 @@
       "url": "http://mrnumber.com/1-888-742-0000"
     },
     {
-      "name": "HLR Lookup Portal (R)",
+      "name": "HLR Lookup Portal (R) [Very Detailed!]",
       "type": "url",
       "url": "https://www.hlr-lookups.com/"
-    },
-    {
-      "name": "OpenCNAM",
-      "type": "url",
-      "url": "https://www.opencnam.com/"
-    },
-    {
-      "name": "OpenCNAM API",
-      "type": "url",
-      "url": "http://api.opencnam.com/v2/phone/+19073372323"
-    },
-    {
-      "name": "Numspy",
-      "type": "python3 Module",
-      "url": "https://bhattsameer.github.io/numspy"
-    },
-    {
-      "name": "Numspy-Api",
-      "type": "url",
-      "url": "https://numspy.pythonanywhere.com/"
     },
     {
       "name": "Caller ID & Spam Call Blocker - Sync.ME",
