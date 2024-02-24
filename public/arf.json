@@ -2828,21 +2828,6 @@
     {
       "children": [
       {
-        "name": "Numbering Plans",
-        "type": "url",
-        "url": "https://www.numberingplans.com/?page=analysis&sub=phonenr"
-      },
-      {
-        "name": "Numberway",
-        "type": "url",
-        "url": "https://www.numberway.com/"
-      }],
-      "name": "International",
-      "type": "folder"
-    },
-    {
-      "children": [
-      {
         "name": "Reverse Phone Lookup - Spy Dialer",
         "type": "url",
         "url": "https://www.spydialer.com/default.aspx"
@@ -2909,6 +2894,11 @@
       "name": "Phone reverse lookup - Epieos",
       "type": "url",
       "url": "https://epieos.com/"
+    },
+    {
+      "name": "Analysis of telephone numbers - NUMBERING PLANS",
+      "type": "url",
+      "url": "https://www.numberingplans.com/?page=analysis&sub=phonenr"
     }],
     "name": "Telephone Numbers",
     "type": "folder"
