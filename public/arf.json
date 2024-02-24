@@ -2846,6 +2846,11 @@
         "name": "Reverse Phone Lookup - Spy Dialer",
         "type": "url",
         "url": "https://www.spydialer.com/default.aspx"
+      },
+      {
+        "name": "Fone Finder",
+        "type": "url",
+        "url": "http://www.fonefinder.net/"
       }],
       "name": "United States",
       "type": "folder"
@@ -2856,6 +2861,11 @@
         "name": "Caller ID - Me",
         "type": "url",
         "url": "https://me.app/"
+      },
+      {
+        "name": "Reverse phone lookup - Hyia",
+        "type": "url",
+        "url": "https://www.hiya.com/products/app"
       }],
       "name": "Apps",
       "type": "folder"
@@ -2876,29 +2886,14 @@
       "url": "https://www.twilio.com/lookup"
     },
     {
-      "name": "Fone Finder",
-      "type": "url",
-      "url": "http://www.fonefinder.net/"
-    },
-    {
-      "name": "True Caller",
+      "name": "True Caller (R)",
       "type": "url",
       "url": "http://www.truecaller.com/"
     },
     {
-      "name": "Reverse Genie",
+      "name": "Reverse Phone Lookup",
       "type": "url",
-      "url": "http://www.reversegenie.com/phone.php"
-    },
-    {
-      "name": "SpyDialer",
-      "type": "url",
-      "url": "http://www.spydialer.com/default.aspx"
-    },
-    {
-      "name": "Mr. Number (M)",
-      "type": "url",
-      "url": "http://mrnumber.com/1-888-742-0000"
+      "url": "https://www.reversephonecheck.com/"
     },
     {
       "name": "HLR Lookup Portal (R) [Very Detailed!]",
