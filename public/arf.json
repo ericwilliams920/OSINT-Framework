@@ -924,6 +924,11 @@
         "name": "RobotsDisallowed",
         "type": "url",
         "url": "https://github.com/danielmiessler/RobotsDisallowed"
+      },
+      {
+        "name": "Environment files scanner - DotGit",
+        "type": "url",
+        "url": "https://github.com/davtur19/DotGit"
       }],
       "name": "Vulnerabilities",
       "type": "folder"
