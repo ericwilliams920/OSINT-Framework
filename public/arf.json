@@ -1375,16 +1375,26 @@
           "url": "https://saucenao.com/"
         },
         {
-          "name": "Face Search Engine - PimEyes",
+          "name": "Locate Images - GeoSpy",
           "type": "url",
-          "url": "https://pimeyes.com/en"
-        },
-        {
-          "name": "Face Search Engine - FaceCheckID",
-          "type": "url",
-          "url": "https://facecheck.id/"
+          "url": "https://geospy.ai/"
         }],
         "name": "Search [Checked]",
+        "type": "folder"
+      },
+      {
+        "children": [
+          {
+            "name": "Face Search Engine - PimEyes",
+            "type": "url",
+            "url": "https://pimeyes.com/en"
+          },
+          {
+            "name": "Face Search Engine - FaceCheckID",
+            "type": "url",
+            "url": "https://facecheck.id/"
+          }],
+        "name": "Face Search [Checked]",
         "type": "folder"
       },
       {
