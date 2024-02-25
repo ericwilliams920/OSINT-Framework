@@ -5638,6 +5638,11 @@
       "name": "Overview",
       "type": "url",
       "url": "https://www.overviewdocs.com/"
+    },
+    {
+      "name": "OSINT tool (browser extension)",
+      "type": "url",
+      "url": "https://www.osint-tool.com/"
     }],
     "name": "Tools",
     "type": "folder"
