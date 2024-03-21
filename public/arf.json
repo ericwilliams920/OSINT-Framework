@@ -229,6 +229,11 @@
         "name": "Domainsdb.info",
         "type": "url",
         "url": "https://domainsdb.info"
+      },
+      {
+        "name": "Whois History - Whoxy",
+        "type": "url",
+        "url": "https://www.whoxy.com/"
       }],
       "name": "Whois Records [Checked]",
       "type": "folder"
@@ -1593,6 +1598,11 @@
           "name": "Yahoo Video Search",
           "type": "url",
           "url": "http://video.search.yahoo.com/"
+        },
+        {
+          "name": "Search YouTube by Location",
+          "type": "url",
+          "url": "https://mattw.io/youtube-geofind/location"
         }],
         "name": "Search",
         "type": "folder"
@@ -1643,6 +1653,11 @@
           "name": "yasiv-youtube",
           "type": "url",
           "url": "https://yasiv.com/youtube"
+        },
+        {
+          "name": "Youtube Metadata (A)",
+          "type": "url",
+          "url": "https://mattw.io/youtube-metadata/"
         }],
         "name": "Analyze / Record",
         "type": "folder"
@@ -5571,21 +5586,52 @@
         "type": "url",
         "url": "https://github.com/sundowndev/PhoneInfoga"
       }],
-      "name": "OSINT Automation",
+      "name": "OSINT Automation [Not-Checked]",
       "type": "folder"
     },
     {
-      "children": [
-      {
-        "name": "Low Hanging Fruit (T)",
-        "type": "url",
-        "url": "https://github.com/blindfuzzy/LHF"
-      }],
+      "children": [],
       "name": "Pentesting Recon",
       "type": "folder"
     },
     {
       "children": [
+      {
+        "children": [
+          {
+            "name": "Kali Linux OS (T)",
+            "type": "url",
+            "url": "https://www.kali.org/"
+          },
+          {
+            "name": "ParrotSec OS (T)",
+            "type": "url",
+            "url": "https://www.parrotsec.org/"
+          },
+          {
+            "name": "Windows 11 OS VMs (T) - TBC",
+            "type": "url",
+            "url": "https://developer.microsoft.com/en-us/windows/downloads/virtual-machines//"
+          },
+          {
+            "name": "Subgraph OS (T) - TBC",
+            "type": "url",
+            "url": "https://subgraph.com/index.en.html"
+          },
+          {
+            "name": "Tails Live OS (T)",
+            "type": "url",
+            "url": "https://tails.boum.org/"
+          },
+          {
+            "name": "Whonix (T) - TBC",
+            "type": "url",
+            "url": "https://www.whonix.org/wiki/Main_Page"
+          }
+        ],
+        "name": "Operating Systems",
+        "type": "folder"
+      },
       {
         "name": "VMware Workstation Player (T)",
         "type": "url",
@@ -5595,54 +5641,32 @@
         "name": "VirtualBox (T)",
         "type": "url",
         "url": "https://www.virtualbox.org/"
-      },
-      {
-        "name": "Buscador OS (T)",
-        "type": "url",
-        "url": "https://inteltechniques.com/buscador/index.html"
-      },
-      {
-        "name": "Kali Linux OS (T)",
-        "type": "url",
-        "url": "https://www.kali.org/"
-      },
-      {
-        "name": "ParrotSec OS (T)",
-        "type": "url",
-        "url": "https://www.parrotsec.org/"
-      },
-      {
-        "name": "Microsoft Edge Development OS VMs (T)",
-        "type": "url",
-        "url": "https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/"
-      },
-      {
-        "name": "Subgraph OS (T)",
-        "type": "url",
-        "url": "https://subgraph.com/index.en.html"
-      },
-      {
-        "name": "Tails Live OS (T)",
-        "type": "url",
-        "url": "https://tails.boum.org/"
-      },
-      {
-        "name": "Whonix (T)",
-        "type": "url",
-        "url": "https://www.whonix.org/wiki/Main_Page"
-      }],
+      }
+     ],
       "name": "Virtual Machines",
       "type": "folder"
     },
     {
-      "name": "Paterva / Maltego (T)",
-      "type": "url",
-      "url": "https://www.maltego.com/"
+      "children": [
+        {
+          "name": "Osintracker (A)",
+          "type": "url",
+          "url": "https://app.osintracker.com"
+        }
+     ],
+      "name": "Visualizations",
+      "type": "folder"
     },
     {
-      "name": "Epic Privacy Browser (T)",
-      "type": "url",
-      "url": "https://www.epicbrowser.com/"
+      "children": [
+        {
+          "name": "Maltego (T)",
+          "type": "url",
+          "url": "https://www.maltego.com/"
+        }
+     ],
+      "name": "Comprehensive Gathering",
+      "type": "folder"
     },
     {
       "name": "Overview",
@@ -5650,11 +5674,11 @@
       "url": "https://www.overviewdocs.com/"
     },
     {
-      "name": "OSINT tool (browser extension)",
+      "name": "OSINT tool (T)",
       "type": "url",
       "url": "https://www.osint-tool.com/"
     }],
-    "name": "Tools",
+    "name": "Tools [Checked]",
     "type": "folder"
   },
   {
@@ -6128,6 +6152,11 @@
       "name": "Mr.Looquer IOC Feed - 1st Dual Stack Threat Feed",
       "type": "url",
       "url": "https://iocfeed.mrlooquer.com"
+    },
+    {
+      "name": "Ransomware Activities - RansomLook",
+      "type": "url",
+      "url": "https://www.ransomlook.io/"
     }],
     "name": "Threat Intelligence",
     "type": "folder"
@@ -6476,6 +6505,11 @@
         "name": "Full Page Screen Capture Chrome Extension (T)",
         "type": "url",
         "url": "https://github.com/mrcoles/full-page-screen-capture-chrome-extension"
+      },
+      {
+        "name": "OSINT Web Capture - Forensic OSINT (T)",
+        "type": "url",
+        "url": "https://www.forensicosint.com/"
       }],
       "name": "Web Browsing",
       "type": "folder"
